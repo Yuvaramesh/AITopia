@@ -1,0 +1,8 @@
+To run convex locally:
+docker compose up 
+
+To clear cache in convex :
+npx convex deploy  
+
+To run convex on docker :
+https://github.com/get-convex/convex-backend/blob/main/self-hosted/README.md
