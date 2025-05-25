@@ -1,4 +1,3 @@
-
 # AITOPIA
 
 An adaptive learning platform designed to cater to diverse learning styles by offering personalized solutions for auditory, visual, and kinesthetic learners. Our platform harnesses AI-driven tools to create engaging educational experiences and enrich the learning process through real-time feedback, interactive storytelling, and dynamic content creation. The solution is built with Next.js, providing a robust and scalable foundation for modern web applications.
